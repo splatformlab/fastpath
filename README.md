@@ -1,9 +1,9 @@
 # PALLAS: Semantic-Aware Checking for Finding Deep Bugs in Fast Path #
 
-## [Patches](https://gitlab.com/WSUV-Pallas/public-db/wikis/patches-(general)) ##
+## [Patches]() ##
 
 ## Authors ##
-- Jian Huang <jian.huang@gatech.edu>
+- Jian Huang <jianh@illinois.edu>
 - Michael Allen-Bond <michael.allen-bond@wsu.edu>
 - Xuechen Zhang <xuechen.zhang@wsu.edu>
 
@@ -24,7 +24,7 @@ ASPLOS 2017
 ```
 
 ## Patch Tags: ##
-### [Path State Bug Patches](https://gitlab.com/WSUV-Pallas/public-db/wikis/path-state-bug-patches) ###
+### [Path State Bug Patches]() ###
 ### [Conditional Bugs Patches](https://gitlab.com/WSUV-Pallas/public-db/wikis/con-bug-patches) ###
 ### [Path Output Bugs Patches](https://gitlab.com/WSUV-Pallas/public-db/wikis/ret-bug-patches) ###
 ### [Data Structure Bugs Patches](https://gitlab.com/WSUV-Pallas/public-db/wikis/ads-bug-patches) ###
