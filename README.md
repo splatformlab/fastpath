@@ -25,7 +25,7 @@ ASPLOS 2017
 
 ## Patch Tags: ##
 ### [Path State Bug Patches](./statebug.md) ###
-### [Conditional Bugs Patches](https://gitlab.com/WSUV-Pallas/public-db/wikis/con-bug-patches) ###
-### [Path Output Bugs Patches](https://gitlab.com/WSUV-Pallas/public-db/wikis/ret-bug-patches) ###
-### [Data Structure Bugs Patches](https://gitlab.com/WSUV-Pallas/public-db/wikis/ads-bug-patches) ###
-### [Fault Handler Bugs Patches](https://gitlab.com/WSUV-Pallas/public-db/wikis/fau-bug-patches) ###
+### [Conditional Bugs Patches](./conditionalbug.md) ###
+### [Path Output Bugs Patches](./outputbug.md) ###
+### [Data Structure Bugs Patches](./datastructurebug.md) ###
+### [Fault Handler Bugs Patches](./faulthandlerbug.md) ###
