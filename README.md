@@ -1,6 +1,6 @@
 # PALLAS: Semantic-Aware Checking for Finding Deep Bugs in Fast Path #
 
-## [Patches]() ##
+## [Patches](./BugList) ##
 
 ## Authors ##
 - Jian Huang <jianh@illinois.edu>
